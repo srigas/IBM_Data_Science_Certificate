@@ -1,3 +1,11 @@
+![](https://img.shields.io/badge/Jupyter-JupyterLab-informational?logo=jupyter&logoColor=white&style=flat&color=5d9ca6)
+![](https://img.shields.io/badge/Git-Hub-informational?logo=github&logoColor=white&style=flat&color=5d9ca6)
+![](https://img.shields.io/badge/R-Studio-informational?logo=rstudio&logoColor=white&style=flat&color=5d9ca6)
+![](https://img.shields.io/badge/Watson-Studio-informational?logo=ibmwatson&logoColor=white&style=flat&color=5d9ca6)
+![](https://img.shields.io/badge/Python-Pandas-informational?logo=pandas&logoColor=white&style=flat&color=5d9ca6)
+![](https://img.shields.io/badge/Python-Numpy-informational?logo=numpy&logoColor=white&style=flat&color=5d9ca6)
+![](https://img.shields.io/badge/Db2-SQL-informational?logo=ibm&logoColor=white&style=flat&color=5d9ca6)
+
 # IBM Data Science Certificate
 
 This repository contains my personalized notebooks and final assignments for the courses that are part of IBM's Data Science Professional Certificate, which can be found [here](https://www.coursera.org/professional-certificates/ibm-data-science "IBM Data Science Professional Certificate"). The material is organized by each course's index, as follows:
