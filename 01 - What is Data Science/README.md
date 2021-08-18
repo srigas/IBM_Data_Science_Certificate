@@ -1,0 +1,1 @@
+This was simply an introductory course, therefore there was no final project in the form of code or a notebook. I have instead uploaded the article by Deloitte which is referenced throughout the course, titled "United States Economic Forecast".
