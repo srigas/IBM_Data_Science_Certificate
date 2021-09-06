@@ -17,7 +17,7 @@ This repository contains my personalized notebooks and final assignments for the
 5. [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science "Python Project for Data Science")
 6. [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science "Databases and SQL for Data Science with Python")
 7. [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python?specialization=ibm-data-science "Data Analysis with Python")
-8. [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-science "Data Visualization with Python") (*Still in progress*)
+8. [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-science "Data Visualization with Python")
 9. [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science "Machine Learning with Python") (*Still in progress*)
 10. [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science "Applied Data Science Capstone") (*Still in progress*)
 
