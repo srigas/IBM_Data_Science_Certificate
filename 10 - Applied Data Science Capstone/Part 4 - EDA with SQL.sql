@@ -36,7 +36,7 @@ SELECT DISTINCT Booster_Version AS "Booster Version",
 PAYLOAD_MASS__KG_ AS "Payload Mass" 
 FROM SPACEXTBL WHERE PAYLOAD_MASS__KG_ = (SELECT MAX(PAYLOAD_MASS__KG_) FROM SPACEXTBL);
 
--- Task 9: List the failed landing_outcomes in drone ship, their booster versions, and launch site names for in year 2015.
+-- Task 9: List the failed landing_outcomes in drone ship, their booster versions, and launch site names for year 2015.
 SELECT Booster_Version AS "Booster Version",
 Launch_Site AS "Launch Site", Landing__Outcome AS "Landing Outcome"
 FROM SPACEXTBL WHERE (Landing__Outcome LIKE '%Failure%')
